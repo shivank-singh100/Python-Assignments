@@ -22,5 +22,3 @@ python "Task 2.py"
 ```
 
 ---
-
-Feel free to modify or extend the solutions as needed for your learning or submission.
